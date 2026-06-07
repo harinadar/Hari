@@ -1,0 +1,6 @@
+{
+  "name": "சிலை நல அறக்கட்டளை",
+  "description": "சிலை நல அறக்கட்டளை (Statue Welfare Trust) - Official membership and administration application for tracking members, social welfare, tree plantation, and educational support activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
